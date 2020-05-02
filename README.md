@@ -1,6 +1,5 @@
 # booksDownloader - Automatic Springer Books Downlaoder, based on keywords
 booksDownloader(folderName,method,keywords,epubFlag)
-Free Springer Books downloader
 
 Usage example:
 booksDownloader('Data Science','fromKeywords',{'data','statistics','artificial','machine learning'},1)
