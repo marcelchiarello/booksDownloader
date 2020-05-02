@@ -101,9 +101,9 @@ disp('done!')
 
 end
 
-%% Functions definition
+%% Functions
 function bookIdx = findIdxFromKeywords(bookData,keywords)
-%finding book indices from keywords
+%Finding book indices from keywords
 cnt = 0; bookIdx = NaN*[];
 for i = 1:size(bookData,1)
     for j = 1:size(keywords,2)
