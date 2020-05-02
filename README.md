@@ -1,4 +1,4 @@
-# booksDownloader
+# booksDownloader - Automatic Springer Books Downlaoder, based on keywords
 booksDownloader(folderName,method,keywords,epubFlag)
 Free Springer Books downloader
 
