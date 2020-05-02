@@ -1,4 +1,5 @@
 # booksDownloader
+booksDownloader(folderName,method,keywords,epubFlag)
 Free Springer Books downloader
 
 Usage example:
